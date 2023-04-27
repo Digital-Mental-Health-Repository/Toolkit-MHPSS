@@ -7,6 +7,10 @@
 > JSON stands for JavaScript Object Notation and it's a lightweight format for storing and transporting data. JSON is "self-describing" and easy to understand.
 When you import it, you will be able to remove any components that do not make sense for your specific use case.
 
+## What is UUID?
+
+> UUID stands for Universally Unique Identifier. It is a unique identifier that is used to identify contacts, flows, and other elements within the project.
+
 ## What does each file report?
 
 **Workspace folder:**
@@ -45,6 +49,18 @@ When you import it, you will be able to remove any components that do not make s
 + **UNICEF On My Mind activations contents**
   + Emotional Regulation, Mental Health Literacy, Relationship Skills, Stress Management.
 
+# How to download the files?
+
+1. Go to the file that you need to download;
+2. Click on the file and you will see its content;
+3. Click on the option 'Raw':
+![](./imgs/downloadingFiles1.png)
+
+4. Then right-click and click 'Save As':
+![](./imgs/downloadingFiles2.png)
+
+Make sure that the name and extension (.json) of the file are correct, and you are done!
+
 # How to import Workspace files in Dash platform?
 
 > Please note that when importing the Flows JSON file, the **entire file contents** will be imported. At this stage, it's not possible to selectively choose which flows to import. Once the import process is complete, you can either delete any unwanted flows or archive them for future reference, keeping only what interests you.
@@ -57,6 +73,18 @@ To add a project to your workspace, you won't need any tools. Just import the **
 Select the file you **want to upload**¹ and then click on the **Import** button²:
 
 ![](./imgs/2.png)
+
+Please wait a few moments, and soon the files will have been imported.
+
+> Pay attention to the warning above! Check the flows names before importing if you don't want them to be overwritten.
+
+# How to import Workspace files in RapidPro platform?
+
+In the **Flows** tab, click on **Import** located in the right-hand corner:
+![](./imgs/rapidProImport.png)
+
+Select the file you **want to upload**¹ and then click on the **Import** button²:
+![](./imgs/rapidProImport2.png)
 
 Please wait a few moments, and soon the files will have been imported.
 
