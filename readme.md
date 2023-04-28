@@ -54,10 +54,10 @@ When you import it, you will be able to remove any components that do not make s
 1. Go to the "Wokspace" folder of the Project you wish to download;
 2. Click on the "flows.json" file;
 3. Click on the option "Download":
-![](./imgs/downloadingFiles1.png)
+![](./imgs/downloadingFiles.png)
 
 4. Then right-click and click 'Save As':
-![](./imgs/downloadingFiles2.png)
+![](./imgs/downloadingFiles1.png)
 
 Make sure that the name and extension (.json) of the file are correct, and you are done!
 
