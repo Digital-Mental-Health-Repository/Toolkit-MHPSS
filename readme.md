@@ -51,9 +51,9 @@ When you import it, you will be able to remove any components that do not make s
 
 # How to download the files?
 
-1. Go to the file that you need to download;
-2. Click on the file and you will see its content;
-3. Click on the option 'Raw':
+1. Go to the "Wokspace" folder of the Project you wish to download;
+2. Click on the "flows.json" file;
+3. Click on the option "Download":
 ![](./imgs/downloadingFiles1.png)
 
 4. Then right-click and click 'Save As':
