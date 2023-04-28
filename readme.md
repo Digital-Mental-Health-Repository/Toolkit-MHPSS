@@ -56,8 +56,8 @@ When you import it, you will be able to remove any components that do not make s
 3. Click on the option "Download":
 ![](./imgs/downloadingFiles.png)
 
-4. Then right-click and click 'Save As':
-![](./imgs/downloadingFiles1.png)
+4. Then right-click anywhere and select 'Save As':
+![](./imgs/downloadingFiles_2.png)
 
 Make sure that the name and extension (.json) of the file are correct, and you are done!
 
