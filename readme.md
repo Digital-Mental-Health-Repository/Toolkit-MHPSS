@@ -1,3 +1,5 @@
+![](./imgs/step_by_step.png)
+
 # What is this repository?
 
 > This repository contains files that constitute the Esaro, Pode Falar, Nepal, U-Matter and UNICEF On My Mind activations projects, that are separated into three folders which are described in more detail below.
